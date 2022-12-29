@@ -1,0 +1,6 @@
+build/
+.gradle/
+# does this need to be committed?
+.idea/
+*.db
+**/node_modules/
