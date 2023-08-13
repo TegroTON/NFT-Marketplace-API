@@ -34,10 +34,10 @@ dependencies {
     // Serialization
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
     implementation("io.ktor:ktor-serialization-kotlinx-json:$ktorVersion")
-    implementation("com.ionspin.kotlin:bignum-serialization-kotlinx:0.3.7")
+    implementation("com.ionspin.kotlin:bignum-serialization-kotlinx:0.3.8")
 
     // Big integers
-    implementation("com.ionspin.kotlin:bignum:0.3.7")
+    implementation("com.ionspin.kotlin:bignum:0.3.8")
 
     // Time
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
