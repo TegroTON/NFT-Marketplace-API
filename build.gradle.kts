@@ -4,7 +4,7 @@ plugins {
     kotlin("plugin.serialization") version "1.7.20"
 }
 
-val ktorVersion = "2.2.1"
+val ktorVersion = "2.3.7"
 val kodeinVersion = "7.15.1"
 val exposedVersion = "0.40.1"
 
