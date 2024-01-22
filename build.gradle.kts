@@ -5,7 +5,7 @@ plugins {
 }
 
 val ktorVersion = "2.2.1"
-val kodeinVersion = "7.15.1"
+val kodeinVersion = "7.21.2"
 val exposedVersion = "0.40.1"
 
 group = "com.libermall"
