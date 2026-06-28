@@ -61,7 +61,7 @@ dependencies {
     implementation("org.jetbrains.exposed:exposed-dao:$exposedVersion")
     implementation("org.jetbrains.exposed:exposed-jdbc:$exposedVersion")
     implementation("org.jetbrains.exposed:exposed-kotlin-datetime:$exposedVersion")
-    runtimeOnly("org.postgresql:postgresql:42.5.1")
+    runtimeOnly("org.postgresql:postgresql:42.7.3")
 
     // Ktor
     implementation("io.ktor:ktor-client-cio:$ktorVersion")
